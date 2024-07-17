@@ -1,5 +1,11 @@
 # smart_dots
 Key Changes:
+Very dumb dots. I dont know why they does not go on a straight line even i removed the barrier. I will try again later. 
+
+
+
+
+
 Reduced Population Size: Changed from 1000 to 500 in the main function to improve performance.
 Optimized Movement Directions: Directly store the angles and use them to calculate the directions during movement, which avoids the overhead of creating vectors repeatedly.
 Optimized Drawing: Reduced the complexity of the drawing loop.
